@@ -10,3 +10,6 @@
 [submodule "React-Homework-4"]
 	path = React-Homework-4
 	url = https://github.com/ITStep-Homework/React-Homework-4
+[submodule "React-Homework-5"]
+	path = React-Homework-5
+	url = https://github.com/ITStep-Homework/React-Homework-5
